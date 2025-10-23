@@ -1,0 +1,9 @@
+1,Ley,22.0
+2,Ley,22.0
+3,Pepsi,25.0
+4,C-vitt,20.0
+5,Jelley,15.0
+6,Oishi,15.0
+7,Hanami,20.0
+8,Euro cake,5.0
+9,Bun bun,10.0
